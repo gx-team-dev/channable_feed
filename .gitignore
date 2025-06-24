@@ -1,0 +1,23 @@
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+
+# Cache files
+*.cache
+
+# Log files
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# CSV processing temp files
+*_processing.csv
+*_temp.csv
